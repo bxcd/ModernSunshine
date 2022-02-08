@@ -1,5 +1,7 @@
-Sunshine with Architecture Components
-================================
+# ModernSunshine
+
+Used Android Architecture Components and Retrofit. Completed lesson in conjunction with Google Codelab. Codelab documentation is below.
+
 ## About
 This app is for the [Build an App with Architecture Components Codelab](Todo link).
 
